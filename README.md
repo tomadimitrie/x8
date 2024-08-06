@@ -1,5 +1,7 @@
 # x8
 
+Reverse engineering challenge I created for TFC CTF 2024
+
 ## Build instructions
 
 `cargo run -- --file program.bin` to generate a debug build -- this creates the challenge file
